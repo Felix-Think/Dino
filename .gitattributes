@@ -1,3 +1,2 @@
-faiss_index.faiss filter=lfs diff=lfs merge=lfs -text
 faiss_index_no_augment.faiss filter=lfs diff=lfs merge=lfs -text
 faiss_index filter=lfs diff=lfs merge=lfs -text
